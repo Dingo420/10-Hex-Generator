@@ -13,7 +13,7 @@ Changed : character set to: abcdefghjknprt0123456789 Characters not used : ilmoq
 <b>this reduces a lot!</b>
 
 more details to come... maybe<br>
-<b>known keys</b>
+<b>known keys</b><br>
 4t6h55ekfh<br>
 sxz5rzbxrr<br>
 44ef2e92fb<br>
