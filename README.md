@@ -2,7 +2,15 @@
 <b>What's new</b><br>
 Big hacked mess of code. but removed hex specific things and added telus specific things<br>
 this is such a hack, appended strings may or may not work , it was hacked with no additional appended strings attached.<br>
+
 <br><br>
+Added: more reducer strings to prevent starting with same char eg 11 aa pp <br>
+Added : // if any 2 chars in the first 5 are consecutive identical, none of the last 5 are consectutive identical<br>
+Added : // no 4 chars are alternating such as: 0101, 2323, etc <br>
+Changed : each char cannont appear more than 3 times to 2.<br>
+Added : // there must be at least 1 letter in the first 2 characters <br>
+Changed : random output to mode 4 for faster output???   // METHOD 4 - 65,400 H/s <br>
+
 <b>What is it?</b><br>
 changed the character set to: abcdefghjknprt0123456789<br>
 Characters not used : ilmoqsuvwy<br>
