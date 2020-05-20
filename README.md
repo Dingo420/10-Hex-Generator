@@ -8,6 +8,9 @@ Characters not used : ilmoqsuvwy<br>
 this reduces a lot!<br>
 
 more details to come... maybe<br>
+
+im new to github and forked this from https://github.com/wpatoolkit/10-Hex-Generator <br>
+just giving credit where credit is due, i definitly did not write this from scratch!<br>
 <br><br>
 
 
