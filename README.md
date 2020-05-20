@@ -7,7 +7,7 @@ Added: more reducer strings to prevent starting with same char eg 11 aa pp <br>
 Added : // if any 2 chars in the first 5 are consecutive identical, none of the last 5 are consectutive identical<br>
 Added : // no 4 chars are alternating such as: 0101, 2323, etc <br>
 Changed : each char cannont appear more than 3 times to 2.<br>
-Added : // there must be at least 1 letter in the first 2 characters *THIS IS RISKY BUT SEAMS LIKE A GAMBLE* <br>
+Added : // there must be at least 1 letter in the first 2 characters THIS IS RISKY BUT SEAMS LIKE A GAMBLE THIS SHOULD PROBABBLY BE 3 char <br>
 Changed : random output to mode 4 for faster output???   // METHOD 4 - 65,400 H/s <br>
 Changed : character set to: abcdefghjknprt0123456789 Characters not used : ilmoqsuvwy<br>
 <b>this reduces a lot!</b>
