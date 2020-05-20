@@ -1,6 +1,7 @@
 # Telus Specific Keyspace Reducer
 <b>What's new</b><br>
-Big hacked mess of code. but removed hex specific things and added telus specific things
+Big hacked mess of code. but removed hex specific things and added telus specific things<br>
+this is such a hack, appended strings may or may not work , it was hacked with no additional appended strings attached.<br>
 <br><br>
 <b>What is it?</b><br>
 changed the character set to: abcdefghjknprt0123456789<br>
