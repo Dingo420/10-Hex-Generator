@@ -15,7 +15,7 @@ just giving credit where credit is due, i definitly did not write this from scra
 
 
 To compile on Linux:<br>
-`g++ 10hex.cpp -o10hex`
-
-`10hex | cudaHashcat64 -m 2500 CAP.hccap`<br>
+`g++ Telus.cpp -o Telus`
+To Run with hashcat
+`Telus | cudaHashcat64 -m 2500 CAP.hccap`<br>
 pipes its output into <a href="http://hashcat.net/oclhashcat/">cudaHashcat</a> (NVIDIA)
