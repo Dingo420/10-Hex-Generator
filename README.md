@@ -13,6 +13,19 @@ Changed : character set to: abcdefghjknprt0123456789 Characters not used : ilmoq
 <b>this reduces a lot!</b>
 
 more details to come... maybe<br>
+<b>known keys</b>
+4t6h55ekfh<br>
+sxz5rzbxrr<br>
+44ef2e92fb<br>
+e80c193ce3<br>
+984b895c77<br>
+943588d93d<br>
+7ac4489633<br>
+8ae667a9c4<br>
+694e7d783b<br>
+570734d1db<br>
+8bc090fc22<br>
+0a171ffba5<br>
 
 im new to github and forked this from https://github.com/wpatoolkit/10-Hex-Generator <br>
 just giving credit where credit is due, i definitly did not write this from scratch!<br>
@@ -24,3 +37,4 @@ To compile on Linux:<br>
 To Run with hashcat
 `Telus | cudaHashcat64 -m 2500 CAP.hccap`<br>
 pipes its output into <a href="http://hashcat.net/oclhashcat/">cudaHashcat</a> (NVIDIA)
+<b>And dont forget rockyou.txt with rules</b>
